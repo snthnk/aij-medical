@@ -1,0 +1,14 @@
+# Данные соревнования и модели не публикуются
+data/
+models/
+submission.csv
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+catboost_info/
+
+# OS
+.DS_Store
