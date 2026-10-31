@@ -13,7 +13,7 @@
 | **Итого** | | | **55.7 / 70** |
 | Бейзлайн организаторов (bag-of-words + LogReg) | | | ≈ 45 / 70 |
 
-Балл получен на закрытом тесте платформы и воспроизводится [`solution.ipynb`](solution.ipynb) с точностью до погрешности вычислений на GPU.
+Балл получен на закрытом тесте платформы. Код решения — в [`solution.ipynb`](solution.ipynb).
 
 ## Задача
 
@@ -60,3 +60,4 @@ flowchart LR
 ## Стек
 
 Python, PyTorch, Hugging Face Transformers, scikit-learn, CatBoost, pandas.
+
